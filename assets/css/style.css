@@ -1,0 +1,303 @@
+.menu {
+	background-color: #2F4F4F;
+}
+
+.fontq {
+	color: white;
+}
+
+.warna {
+	background-color: #00CED1;
+}
+
+.warna a:hover {
+	color: #2F4F4F;
+}
+
+.menu2 {
+	margin-left: 250px;
+	padding: 15px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+.letak2 {
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-bottom: 30px;
+}
+
+.letak3 {
+	margin-top: 20px;
+	margin-left: 239px;
+}
+
+.petak {
+	padding: 15px 70px;
+	background-color: white;
+	border-top-right-radius: 35px;
+}
+.foto {
+	z-index: 2;
+	width: 250px;
+	position: absolute;
+	margin-top: 57px;
+	margin-left: -25px;
+}
+
+.fa {
+	padding: 10px;
+	font-size: 30px;
+	width: 40px;
+	text-align: center;
+	text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+	opacity: 0.7;
+}
+
+.fas:hover {
+	opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+	background: #3B5998;
+	color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+	background: #55ACEE;
+	color: white;
+}
+
+.fa-youtube {
+	background: #bb0000;
+	color: white;
+}
+
+.fa-instagram {
+	background: #125688;
+	color: white;
+}
+
+.fa-skype {
+	background: #00aff0;
+	color: white;
+}
+
+.center {
+	margin-left: 250px;
+	margin-top: 450px;
+}
+
+.navbarq:hover {
+	opacity: 0.7;
+}
+
+.book {
+	margin-right: 15px;
+	margin-left: 70px;
+}
+
+.dokter {
+	filter: blur(1px);
+	width: 100%;
+}
+
+.specialities a:hover {
+	color: #00CED1;
+}
+
+.oval {
+	border-bottom-left-radius: 50px;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-top-right-radius: 50px;
+}
+
+.oval2 {
+	border-bottom-left-radius: 200px;
+	border-top-left-radius: 200px;
+	border-bottom-right-radius: 200px;
+	border-top-right-radius: 200px;
+}
+
+.oval3 {
+	border-bottom-left-radius: 0px;
+	border-top-left-radius: 200px;
+	border-bottom-right-radius: 0px;
+	border-top-right-radius: 200px;
+}
+
+.img-circle {
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+}
+
+.time {
+	background-color: #D3D3D3;
+}
+
+.icon {
+	color: #00CED1;
+	font-size: 48px;
+}
+
+.tinggi {
+	width: 300px;
+	height: 350px;
+}
+
+.geser {
+	margin-left: 100px;
+	margin-bottom: 75px;
+}
+
+.geser2 {
+	margin-right: 100px;
+	margin-bottom: 75px;
+}
+
+.fonttt {
+	color: black;
+}
+
+.gambarr {
+	width: 300px;
+}
+
+.textt {
+	margin-left: 100px;
+	padding-right: 50px;
+}
+
+.gambarr2 {
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
+
+.faqHeader {
+	font-size: 27px;
+	margin: 20px;
+}
+
+.panel-heading [data-toggle="collapse"]:after {
+	font-family: 'Glyphicons Halflings';
+	content: "e072";
+	/* "play" icon */
+	float: right;
+	color: #F58723;
+	font-size: 18px;
+	line-height: 22px;
+	/* rotate "play" icon from > (right arrow) to down arrow */
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+}
+
+.panel-heading [data-toggle="collapse"].collapsed:after {
+	/* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+	color: #454444;
+}
+
+.fontqu {
+	color: #2F4F4F;
+}
+
+.fontqu a:hover {
+	color: #00CED1;
+}
+
+.starcu {
+	color: #00CED1;
+}
+
+#middle {
+	margin-right: 40px;
+}
+
+.tim-row {
+	margin-bottom: 20px;
+}
+
+.tim-white-buttons {
+	background-color: #777777;
+}
+
+.typography-line {
+	padding-left: 25%;
+	margin-bottom: 35px;
+	position: relative;
+	display: block;
+	width: 100%;
+}
+
+.typography-line span {
+	bottom: 10px;
+	color: #c0c1c2;
+	display: block;
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 13px;
+	left: 0;
+	position: absolute;
+	width: 260px;
+	text-transform: none;
+}
+
+.tim-row {
+	padding-top: 60px;
+}
+
+.tim-row h3 {
+	margin-top: 0;
+}
+
+.offline-doc .page-header {
+	display: flex;
+	align-items: center;
+}
+
+.offline-doc .footer {
+	position: absolute;
+	width: 100%;
+	background: transparent;
+	bottom: 0;
+	color: #fff;
+	z-index: 1;
+}
+
+@media all and (min-width: 992px) {
+	.sidebar .nav>li.active-pro {
+		position: absolute;
+		width: 100%;
+		bottom: 10px;
+	}
+}
+
+.card.card-upgrade .card-category {
+	max-width: 530px;
+	margin: 0 auto;
+}
+
+.dropdown-toggle::after {
+	display: block;
+	position: absolute;
+	top: 50%;
+	right: 20px;
+	transform: translateY(-50%);
+}
